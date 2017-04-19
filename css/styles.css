@@ -1,0 +1,23 @@
+body {
+  font-family: monospace;
+}
+
+.header {
+  border: 3px solid #998baf;
+}
+
+.sections {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+.body {
+  font-weight: lighter;
+}
+
+h3 {
+  font-size: 2em;
+}
+
+h4 {
+  font-size: 1.75em;
+}
